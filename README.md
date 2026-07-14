@@ -126,9 +126,12 @@ Created by:
 
 **Avyaan Mishra (Doub.creator_00001)**
 
-Year:
+Year:**2026**
 
-**2026**
+[!note]
+visit https://github.com/pandeykhushbu29-eng/Doublers to know about Doublers, my first and main project!
+
+Copyright (c) Avyaan Mishra
 
 ---
 
