@@ -134,8 +134,9 @@ Year:**2026**
 
 ---
 
-[!note]
-visit https://github.com/pandeykhushbu29-eng/Doublers to know about Doublers, my first and main project!
+>[!note]
+>visit https://github.com/pandeykhushbu29-eng/Doublers
+>SO you can know about Doublers, my first and main project!
 
 ---
 
