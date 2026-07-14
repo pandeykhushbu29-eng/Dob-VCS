@@ -126,6 +126,10 @@ Created by:
 
 **Avyaan Mishra (Doub.creator_00001)**
 
+Age:
+
+11 years old (when v1.0.0 was released)
+
 Year:**2026**
 
 ---
