@@ -137,11 +137,47 @@ Year:**2026**
 >[!note]
 >
 >visit https://github.com/pandeykhushbu29-eng/Doublers
->SO you can know about Doublers, my first and main project!
+and visit https://github.com/pandeykhushbu29-eng/DULO
+>SO you can know about my first and thrid project, respectively!
 
 ---
 
-Copyright (c) Avyaan Mishra
+## Contributing
+
+Dob-VCS is intended to be a community-driven version control specification.
+
+The long-term evolution of this specification does **not** depend on the continued involvement of the original author.
+
+If the original author becomes inactive or unavailable, contributors are encouraged to continue improving the specification through community collaboration.
+
+Future maintainers may:
+
+- Review and merge specification improvements.
+- Publish revised specification versions.
+- Expand the protocol while preserving compatibility whenever practical.
+- Maintain reference implementations, testing tools, and interoperability suites.
+
+Contributors should strive to ensure that changes remain:
+
+- Technically justified.
+- Well documented.
+- Backward compatible whenever practical.
+- Implementation independent.
+- Consistent with the overall design goals of Dob-VCS.
+
+## Governance
+
+Dob-VCS has no permanently required maintainer.
+
+The original author initiated the project, but the specification is intended to evolve through community stewardship.
+
+Should the original author become inactive or permanently unavailable, the community is encouraged to continue development by establishing new maintainers through open discussion and transparent decision-making.
+
+No individual is required for Dob-VCS to continue evolving.
+
+---
+
+Copyright (c) Avyaan Mishra (Doub.creator_0001)
 
 ---
 
